@@ -1,7 +1,7 @@
 # Website Project
 
 ## Overview
-This project is a fully functional website built using **HTML**, **CSS**, **JavaScript**, and **PHP**. The website serves as [describe the purpose of your website, e.g., a platform for managing novels, chapters, and user profiles]. It includes both front-end and back-end components, providing a seamless user experience and dynamic functionality.
+This project is a fully functional website built using **HTML**, **CSS**, **JavaScript**, and **PHP**. It includes both front-end and back-end components, providing a seamless user experience and dynamic functionality.
 
 ## Features
 - **Responsive Design**: The website is fully responsive and works seamlessly across all devices (desktop, tablet, and mobile).
@@ -48,10 +48,7 @@ project-root/
 Here’s an overview of the project structure:
 Installation and Setup
 Follow these steps to set up the project locally:
-
-Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git  
-cd your-repo-name  
+ 
 Set Up a Local Server:
 
 Use a local server XAMPP
