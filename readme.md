@@ -21,9 +21,9 @@ This project is a fully functional website built using **HTML**, **CSS**, **Java
 - **Database**: [If applicable, e.g., MySQL]
 project-root/  
 ├── css/                  # Contains all CSS files  
-│   └── styles.css        # Main stylesheet  
+│    
 ├── js/                   # Contains all JavaScript files  
-│   └── script.js         # Main JavaScript file  
+│  
 ├── php/                  # Contains all PHP files  
 │   ├── about.php         # About page  
 │   ├── add_chapter.php   # Page to add a new chapter  
